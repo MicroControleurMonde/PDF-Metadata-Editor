@@ -1,5 +1,7 @@
 # PDF-Metadata-Editor
 Simple graphical PDF metadata editing application developed with Tkinter in Python.
+![PDF File Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/200px-PDF_file_icon.svg.png)
+
 
 ## Files:
 
