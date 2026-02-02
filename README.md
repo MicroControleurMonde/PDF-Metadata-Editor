@@ -1,6 +1,21 @@
 # PDF-Metadata-Editor
 Simple graphical PDF metadata editing application developed with Tkinter in Python.
 
+## Files:
+
+    - `pdf_metadata_editor_en.v2.py`
+
+        Main python version in Engish
+
+    - `pdf_metadata_editor.v2.py`
+
+        python version in French        
+
+    - `pdf_metadata_editor.v2.exe`
+
+    Complied and optimised (only 12 Mo) executable in French.
+
+
 ## **Module to install**
 
   - **pypdf** 
