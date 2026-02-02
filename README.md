@@ -8,7 +8,7 @@ Simple graphical PDF metadata editing application developed with Tkinter in Pyth
 
     - `pdf_metadata_editor_en.v2.py`
 
-        Main python version in English
+        Main python version in English      
 
     - `pdf_metadata_editor.v2.py`
 
@@ -17,9 +17,13 @@ Simple graphical PDF metadata editing application developed with Tkinter in Pyth
     - `pdf_metadata_editor.v2.exe`
 
         Complied and optimised (<mark>only 12 Mo</mark>) executable in French.
+        
+## Installation
 
+### Prerequisites
+- Python 3.6 or higher
 
-## **Module to install**
+### Module to install
 
   - **pypdf** 
 
@@ -73,3 +77,11 @@ Simple graphical PDF metadata editing application developed with Tkinter in Pyth
     
 
 This application is useful for organizing, archiving or standardizing the metadata of PDF documents.
+
+⚠️ **Limitations**
+
+    - Cannot edit encrypted/protected PDFs
+    
+    - Creates a new file (does not modify in-place)
+    
+    - Metadata changes may not be visible in all PDF viewers
