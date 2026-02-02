@@ -6,7 +6,7 @@ Simple graphical PDF metadata editing application developed with Tkinter in Pyth
 
 1. **Simple user interface with 5 main buttons** :
   
-  - Open a PDF file
+    - Open a PDF file
     
   - View existing metadata
     
