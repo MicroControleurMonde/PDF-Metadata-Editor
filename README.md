@@ -13,7 +13,7 @@ Simple graphical PDF metadata editing application developed with Tkinter in Pyth
 
     - `pdf_metadata_editor.v2.exe`
 
-        Complied and optimised (<mark>only 12 Mo<\mark>) executable in French.
+        Complied and optimised (<mark>only 12 Mo</mark>) executable in French.
 
 
 ## **Module to install**
